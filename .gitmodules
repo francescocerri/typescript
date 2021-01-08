@@ -1,0 +1,3 @@
+[submodule "typescript-guide"]
+	path = typescript-guide
+	url = https://github.com/francescocerri/typescript-guide
